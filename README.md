@@ -5,8 +5,9 @@
 >* 🔭 I’m currently working on machine learning and opencv projects
 >* 🌱 I’m currently learning Data science,cloud computing
 >* 👯 I’m looking to collaborate on live machine learning projects
->* 📫 How to reach me: * Drop your :email: at <samruddhidhavale990@gmail.com>
-                        * <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/">
+>* 📫 How to reach me:
+                 * Drop your :email: at <samruddhidhavale990@gmail.com>
+                 * <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/">
 <img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" />
   
 >* ⚡ Fun fact: Reaching new heights everydayy, Trust me I am an acrophobic
