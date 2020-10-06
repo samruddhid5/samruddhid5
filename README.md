@@ -4,8 +4,9 @@
 ************************************************************************************************************************************************************
 >* 🔭 I’m currently working on machine learning and opencv projects
 >* 🌱 I’m currently learning Data science,cloud computing
->*  📫 How to reach me: Drop your mail at [:email:][1]
-         [1]: samruddhidhavale990@gmail.com
+>* 📫 How to reach me: Drop your mail at  <a href="samruddhidhavale990@gmail.com">
+<img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/gmail.png?raw=true" />
+                      
                      <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/">
 <img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" />
                       
