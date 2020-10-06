@@ -2,11 +2,12 @@
 
 ## My name is ***SAMRUDDHI DHAVALE***
 ************************************************************************************************************************************************************
->*🔭 I’m currently working on machine learning and opencv projects
+>* 🔭 I’m currently working on machine learning and opencv projects
 >* 🌱 I’m currently learning Data science,cloud computing
->*  📫 How to reach me: Drop your mail at <samruddhidhavale990@gmail.com>
+>*  📫 How to reach me: Drop your mail at [:email:][1]
+         [1]: samruddhidhavale990@gmail.com
                      <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/">
-<img align="left" alt="Samruddhi dhavale" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" />
                       
 <!--
 **samruddhid5/samruddhid5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
