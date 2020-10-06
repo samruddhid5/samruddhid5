@@ -1,4 +1,6 @@
-# Hi there 👋
+# Heyya !! <img src="C:\Users\samu\Desktop\devincept\ass1\wavinghand.jpg" width="30px">
+
+->I am*** SAMRUDDHI DHAVALE***<-
 
 <!--
 **samruddhid5/samruddhid5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
