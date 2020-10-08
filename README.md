@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Drop your mail at 
-                     <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/">
+                     <a href="https://www.linkedin.com/in/samruddhi-dhavale-a7b4b91a9/"><br>
 <img align="left" alt="Samruddhi dhavale" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
                       
 - 😄 Pronouns: 
