@@ -1,7 +1,9 @@
 # Hie there!!:raising_hand:
 
 ## My name is ***SAMRUDDHI DHAVALE***
-![](https://img.shields.io/badge/<code>-<PYTHON>-<blue>)          
+![](https://img.shields.io/badge/<code>-<PYTHON>-<9cf>)    
+![](https://img.shields.io/badge/<code>-<JAVA>-<9cf>)  
+![](https://img.shields.io/badge/<code>-<C>-<9cf>)  
 * :computer: I’m currently working on *machine learning and opencv* projects
 * 🌱 I’m currently learning *Data science,cloud computing*
 * 👯 I’m looking to collaborate on *live machine learning* projects
