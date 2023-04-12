@@ -8,7 +8,7 @@
 * ⚡ Fun fact: Reaching new heights everydayy, Trust me I am an *acrophobic*
 * 📫 How to reach me: Drop your mail at [:email:](samruddhidhavale990@gmail.com)  
                   <a href="https://linkedin.com/in/samruddhi-dhavale990">
-<img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" /> 
+<img align="left" alt="Samruddhi dhavale" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> 
   <a href="https://www.instagram.com/samruddhi_d5"><img align="left" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a><br>
   
 
