@@ -1,7 +1,7 @@
 # Hie there!!:smile:
 
 ## My name is ***SAMRUDDHI DHAVALE***
-![](https://img.shields.io/badge/code-PYTHON-blue)  ![](https://img.shields.io/badge/code-JAVA-red)  ![](https://img.shields.io/badge/code-C-green)  ![](https://img.shields.io/badge/code-SQL-orange)  ![](https://img.shields.io/badge/code-HTML,CSS-blue)  ![](https://img.shields.io/badge/code-JAVASCRIPT-green)   ![](https://img.shields.io/badge/Tool-PowerBI-red)
+![](https://img.shields.io/badge/code-PYTHON-blue)  ![](https://img.shields.io/badge/code-R-red)  ![](https://img.shields.io/badge/code-C-green)  ![](https://img.shields.io/badge/code-SQL-orange)  ![](https://img.shields.io/badge/code-HTML,CSS-blue) ![](https://img.shields.io/badge/Tool-PowerBI-red)
 * :computer: I’m currently working on *machine learning* projects
 * 🌱 I’m currently learning *Data visualising tools, Data preprocceing techniques and ML Algorithms*
 * 👯 I’m looking to collaborate on *live machine learning* projects
